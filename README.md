@@ -1,5 +1,5 @@
 # go-game
-### Board game "Go" implementation in c++
+### Board game "Go" implementation with the Conio2 library
 
 This is my first programming project. 
 It was assigned in the first semester of my studies.
